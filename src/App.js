@@ -1,7 +1,9 @@
+import SortingVisualizer from "./components/SortingVisualizer/SortingVisualizer";
+
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <SortingVisualizer />
     </div>
   );
 }
